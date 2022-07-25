@@ -27,7 +27,7 @@ tigers = Team.new("Tigers", 60,53,7 )
 doragons=Team.new("Dragons", 60,55,5 )
 baustars=Team.new("BayStars", 56,58,6) 
 carp    =Team.new("Carp", 52,56,12) 
-swallows=Team.new("Swallows", 42,69,10)
+swallows=Team.new("Swallows", 41,69,10)
 giants.show_team_result
 tigers.show_team_result
 doragons.show_team_result
